@@ -1,0 +1,7 @@
+{
+    "jecharacters.chat.start": "Начать профилирование",
+    "jecharacters.chat.saved": "Готово! Вывод сохранен в logs/jecharacters.txt.",
+    "jecharacters.chat.error": "Упс! Произошла ошибка при записи файла.",
+    "jecharacters.chat.taiwan": "Внутренняя ошибка.",
+    "jecharacters.chat.help": "/jech [профиль] / [подробное правда/ложь]"
+}

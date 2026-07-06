@@ -1,0 +1,23 @@
+mainmenu.twr.developers = Разработчики
+mainmenu.twr.supportcenter = Центр поддержки
+mainmenu.twr.supportcenter.desc = Проблемы и предложения
+mainmenu.twr.supportus = Поддержите нас
+mainmenu.twr.supportus.url = https://patreon.com/TeamMoegProjects
+mainmenu.twr.options = Опции
+mainmenu.twr.quitgame = Выйти из игры
+mainmenu.twr.teammoeg = См. Кредиты
+mainmenu.twr.singleplayer = Одиночная игра
+mainmenu.twr.singleplayer.hover = Одинокое путешествие
+mainmenu.twr.multiplayer = Мультиплеер
+mainmenu.twr.multiplayer.hover = Переполненная поездка
+mainmenu.twr.official_cn_server = Официальный сервер (CN)
+mainmenu.twr.official_cn_server_tooltip = Не можете попасть на официальный сервер (CN)? Получите последний пакет автообновлений!
+mainmenu.twr.moegcraft_pindao = Присоединяйтесь к каналу QQ, чтобы загрузить пакет автоматического обновления.
+
+twr.update.title = Обновить информацию
+twr.update.tooltip = Проверьте, есть ли новая стабильная версия, которую вы можете обновить.
+twr.update.tooltip_2 = Также получите последнюю тестовую версию!
+twr.update.latest_test_version = Последняя тестовая версия
+twr.update.latest_version = Последняя стабильная версия
+twr.update.download_update = Загрузите обновление с любого из следующих источников:
+twr.update.curse = CurseForge
